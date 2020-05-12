@@ -7,5 +7,5 @@ Jupyter Notebook needs to be installed, as well as the following python3 librari
 
 In order to run, start a2.ipynb while Jupyter server is running.
 
-João Morais
+João Morais  
 Mário Cardoso
